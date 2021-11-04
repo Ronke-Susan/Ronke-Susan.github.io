@@ -1,0 +1,354 @@
+breed,url,popularity,hypoallergenic,intelligence_rating,puppy_price,lifespan
+Boston Terrier,https://www.dogbreedslist.info//all-dog-breeds/boston-terrier.html,#21,No,54,Prices: $1000 - $2000,Lifespan: 12-15 years
+Bernese Mountain Dog,https://www.dogbreedslist.info//all-dog-breeds/bernese-mountain-dog.html,#22,No,22,Prices: $1500 - $3000,Lifespan: 7-10 years
+Pomeranian,https://www.dogbreedslist.info//all-dog-breeds/pomeranian.html,#23,No,23,Prices: $1500 - $3000,Lifespan: 12-16 years
+Havanese,https://www.dogbreedslist.info//all-dog-breeds/havanese.html,#24,Yes,45,Prices: $1500 - $2500,Lifespan: 14-16 years
+Cane Corso,https://www.dogbreedslist.info//all-dog-breeds/cane-corso-italiano.html,#25,No,-,Prices: $1500 - $2500,Lifespan: 10-11 years
+English Springer Spaniel,https://www.dogbreedslist.info//all-dog-breeds/english-springer-spaniel.html,#26,No,13,Prices: $800 - $1800,Lifespan: 10-14 years
+Shetland Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/shetland-sheepdog.html,#27,No,6,Prices: $1000 - $2000,Lifespan: 12-14 years
+Brittany,https://www.dogbreedslist.info//all-dog-breeds/french-brittany.html,#28,No,19,Prices: $700 - $1100,Lifespan: 12-15 years
+Pug,https://www.dogbreedslist.info//all-dog-breeds/pug.html,#29,No,57,Prices: $800 - $1500,Lifespan: 12-15 years
+American Cocker Spaniel,https://www.dogbreedslist.info//all-dog-breeds/american-cocker-spaniel.html,#30,No,20,Prices: $1000 - $2000,Lifespan: 12-15 years
+Miniature American Shepherd,https://www.dogbreedslist.info//all-dog-breeds/miniature-american-shepherd.html,#31,-,-,Prices: $800 - $1500,Lifespan: 13-15 years
+Border Collie,https://www.dogbreedslist.info//all-dog-breeds/border-collie.html,#32,No,1,Prices: $800 - $1500,Lifespan: 12-15 years
+Mastiff,https://www.dogbreedslist.info//all-dog-breeds/english-mastiff.html,#33,No,72,Prices: $1000 - $2000,Lifespan: 10-12 years
+Chihuahua,https://www.dogbreedslist.info//all-dog-breeds/chihuahua.html,#34,No,67,Prices: $800 - $2500,Lifespan: 14-18 years
+Vizsla,https://www.dogbreedslist.info//all-dog-breeds/vizsla.html,#35,No,25,Prices: $1000 - $1800,Lifespan: 10-14 years
+Basset Hound,https://www.dogbreedslist.info//all-dog-breeds/basset-hound.html,#36,No,71,Prices: $800 - $1500,Lifespan: 10-12 years
+Belgian Malinois,https://www.dogbreedslist.info//all-dog-breeds/belgian-shepherd-malinois.html,#37,No,22,Prices: $1000 - $1800,Lifespan: 12-14 years
+Maltese,https://www.dogbreedslist.info//all-dog-breeds/maltese-dog.html,#38,Yes,59,Prices: $1500 - $2500,Lifespan: 15-18 years
+Weimaraner,https://www.dogbreedslist.info//all-dog-breeds/weimaraner.html,#39,No,21,Prices: $700 - $1500,Lifespan: 10-12 years
+Collie,https://www.dogbreedslist.info//all-dog-breeds/rough-collie.html,#40,No,16,Prices: $1200 - $1800,Lifespan: 14-16 years
+Newfoundland,https://www.dogbreedslist.info//all-dog-breeds/newfoundland.html,#41,No,34,Prices: $1700 - $2500,Lifespan: 9-12 years
+Rhodesian Ridgeback,https://www.dogbreedslist.info//all-dog-breeds/rhodesian-ridgeback.html,#42,No,52,Prices: $1000 - $2000,Lifespan: 10-12 years
+Shiba Inu,https://www.dogbreedslist.info//all-dog-breeds/shiba-inu.html,#43,No,49,Prices: $1500 - $2500,Lifespan: 12-15 years
+West Highland White Terrier,https://www.dogbreedslist.info//all-dog-breeds/west-highland-white-terrier.html,#44,Yes,47,Prices: $1500 - $3000,Lifespan: 12-16 years
+Bichon Frise,https://www.dogbreedslist.info//all-dog-breeds/bichon-frise.html,#45,Yes,45,Prices: $1000 - $2000,Lifespan: 12-15 years
+Bloodhound,https://www.dogbreedslist.info//all-dog-breeds/bloodhound.html,#46,No,74,Prices: $700 - $1200,Lifespan: 10-12 years
+English Cocker Spaniel,https://www.dogbreedslist.info//all-dog-breeds/english-cocker-spaniel.html,#47,No,18,Prices: $1000 - $1800,Lifespan: 12-14 years
+Akita,https://www.dogbreedslist.info//all-dog-breeds/american-akita.html,#48,No,54,Prices: $1000 - $2500,Lifespan: 10-14 years
+Portuguese Water Dog,https://www.dogbreedslist.info//all-dog-breeds/portuguese-water-dog.html,#49,Yes,29,Prices: $2000 - $3000,Lifespan: 10-14 years
+Chesapeake Bay Retriever,https://www.dogbreedslist.info//all-dog-breeds/chesapeake-bay-retriever.html,#50,No,27,Prices: $800 - $1500,Lifespan: 10-13 years
+Dalmatian,https://www.dogbreedslist.info//all-dog-breeds/dalmatian.html,#51,No,39,Prices: $1000 - $1600,Lifespan: 12-14 years
+St. Bernard,https://www.dogbreedslist.info//all-dog-breeds/st-bernard.html,#52,No,65,Prices: $1000 - $2000,Lifespan: 8-10 years
+Papillon,https://www.dogbreedslist.info//all-dog-breeds/papillon-dog.html,#53,No,8,Prices: $1000 - $2000,Lifespan: 13-16 years
+Australian Cattle Dog,https://www.dogbreedslist.info//all-dog-breeds/australian-cattle-dog.html,#54,No,10,Prices: $400 - $1000,Lifespan: 12-15 years
+Bullmastiff,https://www.dogbreedslist.info//all-dog-breeds/bullmastiff.html,#55,No,69,Prices: $1500 - $2500,Lifespan: 8-10 years
+Samoyed,https://www.dogbreedslist.info//all-dog-breeds/samoyed.html,#56,Yes,33,Prices: $1500 - $3000,Lifespan: 12-14 years
+Scottish Terrier,https://www.dogbreedslist.info//all-dog-breeds/scottish-terrier.html,#57,Yes,65,Prices: $1400 - $2000,Lifespan: 11-13 years
+Soft Coated Wheaten Terrier,https://www.dogbreedslist.info//all-dog-breeds/soft-coated-wheaten-terrier.html,#58,Yes,40,Prices: $1800 - $3000,Lifespan: 12-15 years
+Whippet,https://www.dogbreedslist.info//all-dog-breeds/whippet.html,#59,No,51,Prices: $2000 - $2500,Lifespan: 12-15 years
+German Wirehaired Pointer,https://www.dogbreedslist.info//all-dog-breeds/german-wirehaired-pointer.html,#60,No,44,Prices: $800 - $1200,Lifespan: 12-14 years
+Shar-Pei,https://www.dogbreedslist.info//all-dog-breeds/shar-pei.html,#61,No,51,Prices: $1000 - $1500,Lifespan: 9-11 years
+Airedale Terrier,https://www.dogbreedslist.info//all-dog-breeds/airedale-terrier.html,#62,Yes,29,Prices: $800 - $1500,Lifespan: 10-13 years
+Wirehaired Pointing Griffon,https://www.dogbreedslist.info//all-dog-breeds/wirehaired-pointing-griffon.html,#63,Yes,46,Prices: $1000 - $2000,Lifespan: 12-14 years
+Bull Terrier,https://www.dogbreedslist.info//all-dog-breeds/bull-terrier.html,#64,No,66,Prices: $1200 - $2000,Lifespan: 10-12 years
+Alaskan Malamute,https://www.dogbreedslist.info//all-dog-breeds/alaskan-malamute.html,#65,No,50,Prices: $1200 - $2000,Lifespan: 12-15 years
+Cardigan Welsh Corgi,https://www.dogbreedslist.info//all-dog-breeds/cardigan-welsh-corgi.html,#66,No,26,Prices: $1200 - $2200,Lifespan: 12-15 years
+Giant Schnauzer,https://www.dogbreedslist.info//all-dog-breeds/giant-schnauzer.html,#67,Yes,28,Prices: $2000 - $3000,Lifespan: 10-12 years
+Old English Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/old-english-sheepdog.html,#68,No,63,Prices: $1800 - $3000,Lifespan: 10-12 years
+Italian Greyhound,https://www.dogbreedslist.info//all-dog-breeds/italian-greyhound.html,#69,Yes,60,Prices: $1400 - $2000,Lifespan: 12-15 years
+Great Pyrenees,https://www.dogbreedslist.info//all-dog-breeds/great-pyrenees.html,#70,No,64,Prices: $800 - $1500,Lifespan: 10-12 years
+Dogue de Bordeaux,https://www.dogbreedslist.info//all-dog-breeds/dogue-de-bordeaux.html,#71,No,-,Prices: $1800 - $2500,Lifespan: 10-12 years
+Jack Russell Terrier,https://www.dogbreedslist.info//all-dog-breeds/jack-russell-terrier.html,#72,No,46,Prices: $800 - $1500,Lifespan: 13-16 years
+Cairn Terrier,https://www.dogbreedslist.info//all-dog-breeds/cairn-terrier.html,#73,Yes,35,Prices: $1200 - $2000,Lifespan: 12-15 years
+Irish Wolfhound,https://www.dogbreedslist.info//all-dog-breeds/irish-wolfhound.html,#74,No,41,Prices: $1500 - $2500,Lifespan: 6-10 years
+Irish Setter,https://www.dogbreedslist.info//all-dog-breeds/irish-setter.html,#75,No,35,Prices: $1200 - $2500,Lifespan: 12-14 years
+Greater Swiss Mountain Dog,https://www.dogbreedslist.info//all-dog-breeds/greater-swiss-mountain-dog.html,#76,No,-,Prices: $1200 - $2800,Lifespan: 10-12 years
+Miniature Pinscher,https://www.dogbreedslist.info//all-dog-breeds/miniature-pinscher.html,#77,No,37,Prices: $1000 - $2000,Lifespan: 12-15 years
+Lhasa Apso,https://www.dogbreedslist.info//all-dog-breeds/lhasa-apso.html,#78,No,68,Prices: $1500 - $2500,Lifespan: 12-15 years
+Chinese Crested,https://www.dogbreedslist.info//all-dog-breeds/chinese-crested.html,#79,Yes,61,Prices: $1000 - $2000,Lifespan: 12-14 years
+Coton De Tulear,https://www.dogbreedslist.info//all-dog-breeds/coton-de-tulear.html,#80,Yes,60,Prices: $1500 - $2500,Lifespan: 14-16 years
+Staffordshire Bull Terrier,https://www.dogbreedslist.info//all-dog-breeds/staffordshire-bull-terrier.html,#81,No,49,Prices: $1500 - $2500,Lifespan: 12-14 years
+American Staffordshire Terrier,https://www.dogbreedslist.info//all-dog-breeds/american-staffordshire-terrier.html,#82,No,34,Prices: $1500 - $2500,Lifespan: 12-14 years
+Rat Terrier,https://www.dogbreedslist.info//all-dog-breeds/rat-terrier.html,#83,No,-,Prices: $600 - $1200,Lifespan: 15-18 years
+Chow Chow,https://www.dogbreedslist.info//all-dog-breeds/chow-chow.html,#84,No,76,Prices: $1200 - $2000,Lifespan: 13-15 years
+Anatolian Shepherd Dog,https://www.dogbreedslist.info//all-dog-breeds/anatolian-shepherd-dog.html,#85,No,-,Prices: $800 - $1200,Lifespan: 10-13 years
+Basenji,https://www.dogbreedslist.info//all-dog-breeds/basenji.html,#86,No,78,Prices: $1500 - $2000,Lifespan: 12-15 years
+Boykin Spaniel,https://www.dogbreedslist.info//all-dog-breeds/boykin-spaniel.html,#87,No,-,Prices: $700 - $1200,Lifespan: 14-16 years
+Lagotto Romagnolo,https://www.dogbreedslist.info//all-dog-breeds/lagotto-romagnolo.html,#88,Yes,-,Prices: $3000 - $5000,Lifespan: 14-16 years
+Brussels Griffon,https://www.dogbreedslist.info//all-dog-breeds/brussels-griffon.html,#89,Yes,-,Prices: $1800 - $2800,Lifespan: 12-15 years
+Nova Scotia Duck Tolling Retriever,https://www.dogbreedslist.info//all-dog-breeds/tolling-retriever.html,#90,No,-,Prices: $1500 - $2500,Lifespan: 12-14 years
+Norwegian Elkhound,https://www.dogbreedslist.info//all-dog-breeds/norwegian-elkhound.html,#91,No,36,Prices: $700 - $1500,Lifespan: 10-12 years
+Standard Schnauzer,https://www.dogbreedslist.info//all-dog-breeds/standard-schnauzer.html,#92,Yes,18,Prices: $1500 - $2500,Lifespan: 12-15 years
+Dogo Argentino,https://www.dogbreedslist.info//all-dog-breeds/argentine-dogo.html,#93,No,-,Prices: $1500 - $2500,Lifespan: 10-12 years
+Bouvier des Flandres,https://www.dogbreedslist.info//all-dog-breeds/bouvier-des-flanders.html,#94,Yes,29,Prices: $1500 - $2500,Lifespan: 10-12 years
+Pekingese,https://www.dogbreedslist.info//all-dog-breeds/pekingese.html,#95,No,73,Prices: $1500 - $3000,Lifespan: 13-15 years
+Keeshond,https://www.dogbreedslist.info//all-dog-breeds/keeshond.html,#96,No,16,Prices: $1500 - $2000,Lifespan: 12-14 years
+Border Terrier,https://www.dogbreedslist.info//all-dog-breeds/border-terrier.html,#97,Yes,30,Prices: $800 - $1500,Lifespan: 12-15 years
+Leonberger,https://www.dogbreedslist.info//all-dog-breeds/leonberger.html,#98,No,-,Prices: $2000 - $4000,Lifespan: 8-10 years
+Tibetan Terrier,https://www.dogbreedslist.info//all-dog-breeds/tibetan-terrier.html,#99,Yes,62,Prices: $1500 - $2500,Lifespan: 12-15 years
+Neapolitan Mastiff,https://www.dogbreedslist.info//all-dog-breeds/neapolitan-mastiff.html,#100,No,-,Prices: $2500 - $4500,Lifespan: 9-10 years
+English Setter,https://www.dogbreedslist.info//all-dog-breeds/english-setter.html,#101,No,37,Prices: $1000 - $1500,Lifespan: 10-12 years
+Flat-Coated Retriever,https://www.dogbreedslist.info//all-dog-breeds/flat-coated-retriever.html,#102,No,18,Prices: $1500 - $3000,Lifespan: 10-13 years
+Borzoi,https://www.dogbreedslist.info//all-dog-breeds/borzoi.html,#103,No,75,Prices: $1500 - $3000,Lifespan: 10-12 years
+Wire Fox Terrier,https://www.dogbreedslist.info//all-dog-breeds/wire-fox-terrier.html,#104,Yes,51,Prices: $1500 - $3000,Lifespan: 12-14 years
+Miniature Bull Terrier,https://www.dogbreedslist.info//all-dog-breeds/miniature-bull-terrier.html,#105,No,66,Prices: $2500 - $3500,Lifespan: 10-12 years
+Belgian Tervuren,https://www.dogbreedslist.info//all-dog-breeds/belgian-shepherd-tervuren.html,#106,No,14,Prices: $1500 - $2000,Lifespan: 10-12 years
+Gordon Setter,https://www.dogbreedslist.info//all-dog-breeds/gordon-setter.html,#107,No,34,Prices: $1000 - $2000,Lifespan: 10-12 years
+Silky Terrier,https://www.dogbreedslist.info//all-dog-breeds/australian-silky-terrier.html,#108,Yes,37,Prices: $1000 - $2000,Lifespan: 12-15 years
+Norwich Terrier,https://www.dogbreedslist.info//all-dog-breeds/norwich-terrier.html,#109,Yes,38,Prices: $2000 - $4000,Lifespan: 12-15 years
+Spinone Italiano,https://www.dogbreedslist.info//all-dog-breeds/spinone-italiano.html,#110,No,-,Prices: $1200 - $2000,Lifespan: 12-14 years
+Japanese Chin,https://www.dogbreedslist.info//all-dog-breeds/japanese-chin.html,#111,No,62,Prices: $1500 - $2500,Lifespan: 10-12 years
+Welsh Terrier,https://www.dogbreedslist.info//all-dog-breeds/welsh-terrier.html,#112,Yes,53,Prices: $1500 - $3000,Lifespan: 10-14 years
+Toy Fox Terrier,https://www.dogbreedslist.info//all-dog-breeds/toy-fox-terrier.html,#113,No,-,Prices: $1000 - $1800,Lifespan: 13-14 years
+Schipperke,https://www.dogbreedslist.info//all-dog-breeds/schipperke.html,#114,No,15,Prices: $1200 - $2000,Lifespan: 13-15 years
+Parson Russell Terrier,https://www.dogbreedslist.info//all-dog-breeds/parson-russell-terrier.html,#115,No,-,Prices: $1200 - $2000,Lifespan: 13-15 years
+Pointer,https://www.dogbreedslist.info//all-dog-breeds/english-pointer.html,#116,No,43,Prices: $1000 - $1500,Lifespan: 12-15 years
+Belgian Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/groenendael.html,#117,No,15,Prices: $1500 - $3000,Lifespan: 12-14 years
+Tibetan Spaniel,https://www.dogbreedslist.info//all-dog-breeds/tibetan-spaniel.html,#118,No,46,Prices: $1500 - $2000,Lifespan: 12-15 years
+American Eskimo Dog,https://www.dogbreedslist.info//all-dog-breeds/american-eskimo-dog.html,#119,No,-,Prices: $1000 - $2000,Lifespan: 12-15 years
+Irish Terrier,https://www.dogbreedslist.info//all-dog-breeds/irish-terrier.html,#120,Yes,53,Prices: $1500 - $2500,Lifespan: 12-15 years
+Beauceron,https://www.dogbreedslist.info//all-dog-breeds/beauceron.html,#121,No,-,Prices: $2000 - $2500,Lifespan: 10-12 years
+Afghan Hound,https://www.dogbreedslist.info//all-dog-breeds/afghan-hound.html,#122,Yes,79,Prices: $2500 - $3500,Lifespan: 12-14 years
+Boerboel,https://www.dogbreedslist.info//all-dog-breeds/boerboel.html,#123,No,-,Prices: $2000 - $4000,Lifespan: 10-12 years
+Smooth Fox Terrier,https://www.dogbreedslist.info//all-dog-breeds/smooth-fox-terrier.html,#124,No,40,Prices: $1000 - $2000,Lifespan: 12-15 years
+Bearded Collie,https://www.dogbreedslist.info//all-dog-breeds/bearded-collie.html,#125,No,34,Prices: $1500 - $2000,Lifespan: 12-14 years
+Black Russian Terrier,https://www.dogbreedslist.info//all-dog-breeds/black-russian-terrier.html,#126,No,-,Prices: $3000 - $4000,Lifespan: 10-14 years
+Black and Tan Coonhound,https://www.dogbreedslist.info//all-dog-breeds/black-and-tan-coonhound.html,#127,No,44,Prices: $400 - $800,Lifespan: 10-12 years
+Welsh Springer Spaniel,https://www.dogbreedslist.info//all-dog-breeds/welsh-springer-spaniel.html,#128,No,31,Prices: $2000 - $2500,Lifespan: 12-15 years
+American Hairless Terrier,https://www.dogbreedslist.info//all-dog-breeds/american-hairless-terrier.html,#129,Yes,-,Prices: $2000 - $4000,Lifespan: 14-16 years
+Norfolk Terrier,https://www.dogbreedslist.info//all-dog-breeds/norfolk-terrier.html,#130,Yes,56,Prices: $2500 - $3500,Lifespan: 12-15 years
+Xoloitzcuintli,https://www.dogbreedslist.info//all-dog-breeds/xoloitzcuintle.html,#131,Yes,-,Prices: $2000 - $4000,Lifespan: 14-20 years
+Manchester Terrier,https://www.dogbreedslist.info//all-dog-breeds/manchester-terrier.html,#132,No,32,Prices: $500 - $1000,Lifespan: 14-16 years
+Kerry Blue Terrier,https://www.dogbreedslist.info//all-dog-breeds/kerry-blue-terrier.html,#133,Yes,35,Prices: $2000 - $2500,Lifespan: 12-15 years
+Australian Terrier,https://www.dogbreedslist.info//all-dog-breeds/australian-terrier.html,#134,Yes,34,Prices: $1200 - $1500,Lifespan: 12-15 years
+Clumber Spaniel,https://www.dogbreedslist.info//all-dog-breeds/clumber-spaniel.html,#135,No,37,Prices: $1200 - $1500,Lifespan: 10-12 years
+Lakeland Terrier,https://www.dogbreedslist.info//all-dog-breeds/lakeland-terrier.html,#136,Yes,62,Prices: $1500 - $2800,Lifespan: 12-16 years
+Bluetick Coonhound,https://www.dogbreedslist.info//all-dog-breeds/bluetick-coonhound.html,#137,No,-,Prices: $400 - $1200,Lifespan: 11-12 years
+English Toy Spaniel,https://www.dogbreedslist.info//all-dog-breeds/english-toy-spaniel.html,#138,No,-,Prices: $2000 - $2500,Lifespan: 10-12 years
+German Pinscher,https://www.dogbreedslist.info//all-dog-breeds/german-pinscher.html,#139,No,-,Prices: $2000 - $3000,Lifespan: 12-15 years
+Tibetan Mastiff,https://www.dogbreedslist.info//all-dog-breeds/tibetan-mastiff.html,#140,No,-,Prices: $2500 - $4000,Lifespan: 10-14 years
+Bedlington Terrier,https://www.dogbreedslist.info//all-dog-breeds/bedlington-terrier.html,#141,Yes,40,Prices: $1800 - $2500,Lifespan: 14-16 years
+Greyhound,https://www.dogbreedslist.info//all-dog-breeds/greyhound.html,#142,No,46,Prices: $1500 - $2500,Lifespan: 10-13 years
+Puli,https://www.dogbreedslist.info//all-dog-breeds/puli.html,#143,Yes,27,Prices: $1500 - $2500,Lifespan: 12-16 years
+Saluki,https://www.dogbreedslist.info//all-dog-breeds/saluki.html,#144,No,43,Prices: $2500 - $3000,Lifespan: 12-14 years
+Barbet,https://www.dogbreedslist.info//all-dog-breeds/barbet.html,#145,Yes,-,Prices: $2500 - $4000,Lifespan: 13-15 years
+Redbone Coonhound,https://www.dogbreedslist.info//all-dog-breeds/redbone-coonhound.html,#146,No,-,Prices: $500 - $800,Lifespan: 12-14 years
+Swedish Vallhund,https://www.dogbreedslist.info//all-dog-breeds/swedish-vallhund.html,#147,No,-,Prices: $1500 - $2300,Lifespan: 12-14 years
+Sealyham Terrier,https://www.dogbreedslist.info//all-dog-breeds/sealyham-terrier.html,#148,Yes,56,Prices: $1500 - $3000,Lifespan: 14-16 years
+Spanish Water Dog,https://www.dogbreedslist.info//all-dog-breeds/spanish-water-dog.html,#149,Yes,-,Prices: $1500 - $2500,Lifespan: 10-14 years
+Briard,https://www.dogbreedslist.info//all-dog-breeds/briard.html,#150,No,30,Prices: $1500 - $3000,Lifespan: 10-12 years
+Berger Picard,https://www.dogbreedslist.info//all-dog-breeds/berger-picard.html,#151,No,-,Prices: $2000 - $2500,Lifespan: 12-15 years
+Entlebucher Mountain Dog,https://www.dogbreedslist.info//all-dog-breeds/entlebucher-mountain-dog.html,#152,No,-,Prices: $800 - $1500,Lifespan: 10-15 years
+Treeing Walker Coonhound,https://www.dogbreedslist.info//all-dog-breeds/treeing-walker-coonhound.html,#153,No,-,Prices: $400 - $800,Lifespan: 12-13 years
+Icelandic Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/icelandic-sheepdog.html,#154,No,-,Prices: $1000 - $1500,Lifespan: 12-15 years
+Wirehaired Vizsla,https://www.dogbreedslist.info//all-dog-breeds/wirehaired-vizsla.html,#155,No,-,Prices: $1000 - $1500,Lifespan: 12-14 years
+Pumi,https://www.dogbreedslist.info//all-dog-breeds/pumi.html,#156,No,-,Prices: $2000 - $3000,Lifespan: 12-15 years
+Portuguese Podengo Pequeno,https://www.dogbreedslist.info//all-dog-breeds/portuguese-podengo.html,#157,No,-,Prices: $1000 - $2500,Lifespan: 12-14 years
+American Water Spaniel,https://www.dogbreedslist.info//all-dog-breeds/american-water-spaniel.html,#158,No,44,Prices: $1200 - $1500,Lifespan: 10-13 years
+Curly-Coated Retriever,https://www.dogbreedslist.info//all-dog-breeds/curly-coated-retriever.html,#159,No,41,Prices: $1500 - $2500,Lifespan: 8-12 years
+Field Spaniel,https://www.dogbreedslist.info//all-dog-breeds/field-spaniel.html,#160,No,34,Prices: $2000 - $5000,Lifespan: 11-15 years
+Lowchen,https://www.dogbreedslist.info//all-dog-breeds/lowchen.html,#161,Yes,-,Prices: $4000 - $8000,Lifespan: 12-15 years
+Kooikerhondje,https://www.dogbreedslist.info//all-dog-breeds/kooikerhondje.html,#162,No,-,Prices: $3000 - $3500,Lifespan: 12-14 years
+Affenpinscher,https://www.dogbreedslist.info//all-dog-breeds/affenpinscher.html,#163,Yes,37,Prices: $1800 - $2500,Lifespan: 12-14 years
+Petit Basset Griffon Vendeen,https://www.dogbreedslist.info//all-dog-breeds/petit-basset-griffon-vendeen.html,#164,No,62,Prices: $1200 - $1600,Lifespan: 11-14 years
+Finnish Lapphund,https://www.dogbreedslist.info//all-dog-breeds/finnish-lapphund.html,#165,No,-,Prices: $1000 - $2000,Lifespan: 12-15 years
+Scottish Deerhound,https://www.dogbreedslist.info//all-dog-breeds/scottish-deerhound.html,#166,No,47,Prices: $1000 - $2500,Lifespan: 8-10 years
+Plott Hound,https://www.dogbreedslist.info//all-dog-breeds/plott-hound.html,#167,No,-,Prices: $500 - $700,Lifespan: 12-14 years
+Norwegian Buhund,https://www.dogbreedslist.info//all-dog-breeds/norwegian-buhund.html,#168,No,-,Prices: $2000 - $2500,Lifespan: 13-15 years
+Glen of Imaal Terrier,https://www.dogbreedslist.info//all-dog-breeds/glen-of-imaal-terrier.html,#169,No,-,Prices: $1500 - $2200,Lifespan: 12-14 years
+Irish Red and White Setter,https://www.dogbreedslist.info//all-dog-breeds/irish-red-and-white-setter.html,#170,No,-,Prices: $1800 - $2500,Lifespan: 11-13 years
+Ibizan Hound,https://www.dogbreedslist.info//all-dog-breeds/ibizan-hound.html,#171,No,53,Prices: $2000 - $2500,Lifespan: 12-14 years
+Sussex Spaniel,https://www.dogbreedslist.info//all-dog-breeds/sussex-spaniel.html,#172,No,-,Prices: $2000 - $3000,Lifespan: 12-15 years
+Bergamasco,https://www.dogbreedslist.info//all-dog-breeds/bergamasco.html,#173,Yes,-,Prices: $1000 - $2000,Lifespan: 13-15 years
+Irish Water Spaniel,https://www.dogbreedslist.info//all-dog-breeds/irish-water-spaniel.html,#174,Yes,24,Prices: $1500 - $2000,Lifespan: 10-12 years
+Polish Lowland Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/polish-lowland-sheepdog.html,#175,Yes,-,Prices: $2000 - $2500,Lifespan: 10-12 years
+Otterhound,https://www.dogbreedslist.info//all-dog-breeds/otterhound.html,#176,No,46,Prices: $1500 - $2500,Lifespan: 10-12 years
+Kuvasz,https://www.dogbreedslist.info//all-dog-breeds/kuvasz.html,#177,No,42,Prices: $1500 - $2500,Lifespan: 10-12 years
+Komondor,https://www.dogbreedslist.info//all-dog-breeds/komondor.html,#178,No,-,Prices: $800 - $1500,Lifespan: 10-12 years
+Cirneco dell’Etna,https://www.dogbreedslist.info//all-dog-breeds/cirneco-dell-etna.html,#179,No,-,Prices: $900 - $1500,Lifespan: 12-15 years
+Pharaoh Hound,https://www.dogbreedslist.info//all-dog-breeds/pharaoh-hound.html,#180,No,37,Prices: $1800 - $2500,Lifespan: 12-14 years
+Dandie Dinmont Terrier,https://www.dogbreedslist.info//all-dog-breeds/dandie-dinmont-terrier.html,#181,Yes,62,Prices: $1500 - $3000,Lifespan: 12-14 years
+Pyrenean Shepherd,https://www.dogbreedslist.info//all-dog-breeds/pyrenean-shepherd.html,#182,No,-,Prices: $800 - $1200,Lifespan: 15-17 years
+Skye Terrier,https://www.dogbreedslist.info//all-dog-breeds/skye-terrier.html,#183,No,55,Prices: $1500 - $2000,Lifespan: 12-14 years
+Canaan Dog,https://www.dogbreedslist.info//all-dog-breeds/canaan-dog.html,#184,No,-,Prices: $1500 - $2000,Lifespan: 12-14 years
+American English Coonhound,https://www.dogbreedslist.info//all-dog-breeds/english-coonhound.html,#185,No,-,Prices: $800 - $1200,Lifespan: 10-12 years
+Chinook,https://www.dogbreedslist.info//all-dog-breeds/chinook-dog.html,#186,No,-,Prices: $800 - $1200,Lifespan: 12-15 years
+Finnish Spitz,https://www.dogbreedslist.info//all-dog-breeds/finnish-spitz.html,#187,No,43,Prices: $1000 - $2000,Lifespan: 12-15 years
+Grand Basset Griffon Vendeen,https://www.dogbreedslist.info//all-dog-breeds/grand-basset-griffon-vendeen.html,#188,No,-,Prices: $1200 - $1500,Lifespan: 12-15 years
+Sloughi,https://www.dogbreedslist.info//all-dog-breeds/sloughi.html,#189,No,-,Prices: $1500 - $2000,Lifespan: 12-15 years
+Harrier,https://www.dogbreedslist.info//all-dog-breeds/harrier-dog.html,#190,No,-,Prices: $1500 - $2500,Lifespan: 10-12 years
+Cesky Terrier,https://www.dogbreedslist.info//all-dog-breeds/cesky-terrier.html,#191,Yes,-,Prices: $1200 - $2500,Lifespan: 12-15 years
+American Foxhound,https://www.dogbreedslist.info//all-dog-breeds/american-foxhound.html,#192,No,46,Prices: $500 - $700,Lifespan: 10-12 years
+Azawakh,https://www.dogbreedslist.info//all-dog-breeds/azawakh.html,#193,No,-,Prices: $2000 - $2500,Lifespan: 10-12 years
+English Foxhound,https://www.dogbreedslist.info//all-dog-breeds/english-foxhound.html,#194,No,46,Prices: $600 - $800,Lifespan: 10-13 years
+Norwegian Lundehund,https://www.dogbreedslist.info//all-dog-breeds/norwegian-lundehund.html,#195,No,-,Prices: $2000 - $3000,Lifespan: 10-12 years
+American Pit Bull Terrier,https://www.dogbreedslist.info//all-dog-breeds/american-pit-bull-terrier.html,-,No,-,Prices: $500 - $1000,Lifespan: 10-14 years
+American White Shepherd,https://www.dogbreedslist.info//all-dog-breeds/american-white-shepherd.html,-,-,-,Prices: $1000 - $1500,Lifespan: 12-14 years
+Cockapoo,https://www.dogbreedslist.info//all-dog-breeds/cockapoo.html,-,No,-,Prices: $1000 - $2000,Lifespan: 14-18 years
+Goldendoodle,https://www.dogbreedslist.info//all-dog-breeds/goldendoodle.html,-,No,-,Prices: $1000 - $2500,Lifespan: 10-15 years
+Japanese Spitz,https://www.dogbreedslist.info//all-dog-breeds/japanese-spitz.html,-,No,-,Prices: $1000 - $2500,Lifespan: 10-16 years
+Miniature Bulldog,https://www.dogbreedslist.info//all-dog-breeds/toy-bulldog.html,-,No,-,Prices: $1500 - $4500,Lifespan: 9-12 years
+Russian Toy,https://www.dogbreedslist.info//all-dog-breeds/russian-toy.html,-,No,-,Prices: $2000 - $2500,Lifespan: 11-13 years
+Volpino Italiano,https://www.dogbreedslist.info//all-dog-breeds/volpino-italiano.html,-,No,-,Prices: $700 - $1500,Lifespan: 14-16 years
+Bolognese dog,https://www.dogbreedslist.info//all-dog-breeds/bolognese-dog.html,-,Yes,-,Prices: $1000 - $2500,Lifespan: 13-15 years
+Miniature Poodle,https://www.dogbreedslist.info//all-dog-breeds/miniature-poodle.html,-,Yes,2,Prices: $1500 - $3000,Lifespan: 14-16 years
+Toy Poodle,https://www.dogbreedslist.info//all-dog-breeds/toy-poodle.html,-,Yes,2,Prices: $1500 - $3000,Lifespan: 14-16 years
+Miniature Shar Pei,https://www.dogbreedslist.info//all-dog-breeds/miniature-shar-pei.html,-,No,-,Prices: $1500 - $3000,Lifespan: 9-11 years
+Alapaha Blue Blood Bulldog,https://www.dogbreedslist.info//all-dog-breeds/alapaha-blue-blood-bulldog.html,-,No,-,Prices: $1500 - $2500,Lifespan: 12-15 years
+Alaskan Klee Kai,https://www.dogbreedslist.info//all-dog-breeds/alaskan-klee-kai.html,-,No,-,Prices: $1500 - $2000,Lifespan: 12-15 years
+Appenzeller Sennenhund,https://www.dogbreedslist.info//all-dog-breeds/appenzeller-sennenhund.html,-,No,-,Prices: $1800 - $2200,Lifespan: 12-15 years
+Australian Bulldog,https://www.dogbreedslist.info//all-dog-breeds/australian-bulldog.html,-,No,-,Prices: $2500 - $3500,Lifespan: 10-12 years
+Australian Kelpie,https://www.dogbreedslist.info//all-dog-breeds/australian-kelpie.html,-,No,-,Prices: $1200 - $1600,Lifespan: 10-14 years
+Australian Stumpy Tail Cattle Dog,https://www.dogbreedslist.info//all-dog-breeds/australian-stumpy-tail-cattle-dog.html,-,No,-,Prices: $500 - $1000,Lifespan: 10-13 years
+Austrian Black and Tan Hound,https://www.dogbreedslist.info//all-dog-breeds/austrian-black-and-tan-hound.html,-,No,-,Prices: $400 - $600,Lifespan: 12-14 years
+Austrian Pinscher,https://www.dogbreedslist.info//all-dog-breeds/austrian-pinscher.html,-,No,-,Prices: $400 - $600,Lifespan: 12-14 years
+Basset Bleu de Gascogne,https://www.dogbreedslist.info//all-dog-breeds/basset-bleu-de-gascogne.html,-,No,-,Prices: $1300 - $1600,Lifespan: 11-13 years
+Basset Fauve de Bretagne,https://www.dogbreedslist.info//all-dog-breeds/basset-fauve-de-bretagne.html,-,-,-,Prices: $1200 - $1500,Lifespan: 11-14 years
+Belgian Shepherd Laekenois,https://www.dogbreedslist.info//all-dog-breeds/belgian-shepherd-laekenois.html,-,No,-,Prices: $1700 - $2500,Lifespan: 10-12 years
+Black Mouth Cur,https://www.dogbreedslist.info//all-dog-breeds/blackmouth-cur.html,-,No,-,Prices: $500 - $1300,Lifespan: 12-18 years
+Black Norwegian Elkhound,https://www.dogbreedslist.info//all-dog-breeds/black-norwegian-elkhound.html,-,No,-,Prices: $700 - $1000,Lifespan: 12-15 years
+Blue Lacy,https://www.dogbreedslist.info//all-dog-breeds/blue-lacy.html,-,-,-,Prices: $400 - $600,Lifespan: 14-16 years
+Blue Picardy Spaniel,https://www.dogbreedslist.info//all-dog-breeds/blue-picardy-spaniel.html,-,No,-,Prices: $900 - $1200,Lifespan: 12-14 years
+Bohemian Shepherd,https://www.dogbreedslist.info//all-dog-breeds/bohemian-shepherd.html,-,No,-,Prices: $2000 - $2500,Lifespan: 10-13 years
+Bracco Italiano,https://www.dogbreedslist.info//all-dog-breeds/bracco-italiano.html,-,-,-,Prices: $2000 - $2500,Lifespan: 11-13 years
+Braque du Bourbonnais,https://www.dogbreedslist.info//all-dog-breeds/braque-du-bourbonnais.html,-,No,-,Prices: $1200 - $1500,Lifespan: 13-15 years
+Brazilian Terrier,https://www.dogbreedslist.info//all-dog-breeds/brazilian-terrier.html,-,-,-,Prices: $800 - $1000,Lifespan: 12-14 years
+Bulgarian Shepherd Dog,https://www.dogbreedslist.info//all-dog-breeds/bulgarian-shepherd-dog.html,-,No,-,Prices: $800 - $1000,Lifespan: 12-14 years
+Canadian Eskimo Dog,https://www.dogbreedslist.info//all-dog-breeds/canadian-eskimo-dog.html,-,No,-,Prices: $3500 - $8000,Lifespan: 12-14 years
+Carolina Dog,https://www.dogbreedslist.info//all-dog-breeds/carolina-dog.html,-,No,-,Prices: $800 - $1500,Lifespan: 12-14 years
+Carpathian Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/carpathian-sheepdog.html,-,No,-,Prices: $1500 - $2000,Lifespan: 12-14 years
+Catahoula Bulldog,https://www.dogbreedslist.info//all-dog-breeds/catahoula-bulldog.html,-,No,-,Prices: $400 - $700,Lifespan: 10-14 years
+Catahoula Leopard Dog,https://www.dogbreedslist.info//all-dog-breeds/catahoula-leopard-dog.html,-,No,-,Prices: $400 - $700,Lifespan: 11-13 years
+Catalan Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/catalan-sheepdog.html,-,No,-,Prices: $1200 - $1500,Lifespan: 12-14 years
+Caucasian Ovcharka,https://www.dogbreedslist.info//all-dog-breeds/caucasian-ovtcharka.html,-,No,-,Prices: $1000 - $3000,Lifespan: 10-12 years
+Central Asian Ovtcharka,https://www.dogbreedslist.info//all-dog-breeds/central-asian-ovtcharka.html,-,-,-,Prices: $1200 - $2000,Lifespan: 12-14 years
+Croatian Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/croatian-sheepdog.html,-,-,-,Prices: $1000 - $1200,Lifespan: 12-14 years
+Czechoslovakian Wolfdog,https://www.dogbreedslist.info//all-dog-breeds/czechoslovakian-wolfdog.html,-,No,-,Prices: $800 - $1500,Lifespan: 12-15 years
+Dutch Shepherd Dog,https://www.dogbreedslist.info//all-dog-breeds/dutch-shepherd-dog.html,-,No,-,Prices: $1000 - $2500,Lifespan: 12-15 years
+East-European Shepherd,https://www.dogbreedslist.info//all-dog-breeds/east-european-shepherd.html,-,No,-,Prices: $900 - $1200,Lifespan: 12-14 years
+English Shepherd,https://www.dogbreedslist.info//all-dog-breeds/english-shepherd.html,-,No,-,Prices: $400 - $800,Lifespan: 12-15 years
+Eurasier,https://www.dogbreedslist.info//all-dog-breeds/eurasier.html,-,No,-,Prices: $2000 - $2500,Lifespan: 11-13 years
+Fila Brasileiro,https://www.dogbreedslist.info//all-dog-breeds/fila-brasileiro.html,-,No,-,Prices: $1500 - $2000,Lifespan: 9-11 years
+French Spaniel,https://www.dogbreedslist.info//all-dog-breeds/french-spaniel.html,-,No,-,Prices: $1500 - $2000,Lifespan: 10-12 years
+Jagdterrier,https://www.dogbreedslist.info//all-dog-breeds/jagdterrier.html,-,No,-,Prices: $700 - $1000,Lifespan: 12-15 years
+German Longhaired Pointer,https://www.dogbreedslist.info//all-dog-breeds/german-longhaired-pointer.html,-,No,-,Prices: $1000 - $1600,Lifespan: 10-12 years
+Large Munsterlander,https://www.dogbreedslist.info//all-dog-breeds/large-munsterlander.html,-,No,-,Prices: $1500 - $1800,Lifespan: 11-13 years
+Hokkaido Dog,https://www.dogbreedslist.info//all-dog-breeds/hokkaido-dog.html,-,No,-,Prices: $1000 - $1500,Lifespan: 11-13 years
+Hovawart,https://www.dogbreedslist.info//all-dog-breeds/hovawart.html,-,No,-,Prices: $1200 - $3500,Lifespan: 10-14 years
+Korean Jindo,https://www.dogbreedslist.info//all-dog-breeds/korean-jindo-dog.html,-,No,-,Prices: $800 - $1000,Lifespan: 12-15 years
+Karelian Bear Dog,https://www.dogbreedslist.info//all-dog-breeds/karelian-bear-dog.html,-,No,-,Prices: $1400 - $1700,Lifespan: 10-12 years
+Kishu Ken,https://www.dogbreedslist.info//all-dog-breeds/kishu.html,-,No,-,Prices: $1800 - $2200,Lifespan: 11-13 years
+Koolie,https://www.dogbreedslist.info//all-dog-breeds/koolie.html,-,No,-,Prices: $700 - $900,Lifespan: 16-18 years
+Kromfohrlander,https://www.dogbreedslist.info//all-dog-breeds/kromfohrlander.html,-,No,-,Prices: $2000 - $2500,Lifespan: 12-14 years
+Lancashire Heeler,https://www.dogbreedslist.info//all-dog-breeds/lancashire-heeler.html,-,No,-,Prices: $800 - $1200,Lifespan: 12-15 years
+Landseer,https://www.dogbreedslist.info//all-dog-breeds/landseer.html,-,No,-,Prices: $2000 - $2500,Lifespan: 9-11 years
+McNab,https://www.dogbreedslist.info//all-dog-breeds/mcnab.html,-,No,-,Prices: $700 - $1000,Lifespan: 13-15 years
+Mudi,https://www.dogbreedslist.info//all-dog-breeds/mudi.html,-,No,-,Prices: $2000 - $2500,Lifespan: 12-14 years
+Small Munsterlander,https://www.dogbreedslist.info//all-dog-breeds/small-munsterlander.html,-,No,-,Prices: $1500 - $1800,Lifespan: 12-14 years
+Norrbottenspets,https://www.dogbreedslist.info//all-dog-breeds/norrbottenspets.html,-,No,-,Prices: $2000 - $3000,Lifespan: 12-15 years
+Olde English Bulldogge,https://www.dogbreedslist.info//all-dog-breeds/olde-english-bulldogge.html,-,-,-,Prices: $2000 - $3000,Lifespan: 11-13 years
+Pakistani Mastiff,https://www.dogbreedslist.info//all-dog-breeds/pakistani-mastiff.html,-,-,-,Prices: $1000 - $1500,Lifespan: 8-10 years
+Patterdale Terrier,https://www.dogbreedslist.info//all-dog-breeds/patterdale-terrier.html,-,No,-,Prices: $700 - $1000,Lifespan: 11-14 years
+Perro de Presa Canario,https://www.dogbreedslist.info//all-dog-breeds/perro-de-presa-canario.html,-,No,-,Prices: $1500 - $2500,Lifespan: 9-11 years
+Perro de Presa Mallorquin,https://www.dogbreedslist.info//all-dog-breeds/perro-de-presa-mallorquin.html,-,-,-,Prices: $1500 - $2500,Lifespan: 10-12 years
+Peruvian Inca Orchid,https://www.dogbreedslist.info//all-dog-breeds/peruvian-inca-orchid.html,-,Yes,-,Prices: $2000 - $4000,Lifespan: 11-13 years
+Picardy Spaniel,https://www.dogbreedslist.info//all-dog-breeds/picardy-spaniel.html,-,No,-,Prices: $1200 - $1800,Lifespan: 12-14 years
+Prazsky Krysarik,https://www.dogbreedslist.info//all-dog-breeds/prazsky-krysarik.html,-,No,-,Prices: $1500 - $2500,Lifespan: 12-15 years
+Russian Spaniel,https://www.dogbreedslist.info//all-dog-breeds/russian-spaniel.html,-,No,-,Prices: $2000 - $2500,Lifespan: 14-16 years
+Saarloos wolfdog,https://www.dogbreedslist.info//all-dog-breeds/saarloos-wolfdog.html,-,-,-,Prices: $2000 - $2500,Lifespan: 10-12 years
+Sarplaninac,https://www.dogbreedslist.info//all-dog-breeds/sarplaninac.html,-,-,-,Prices: $1500 - $2000,Lifespan: 11-13 years
+Schapendoes,https://www.dogbreedslist.info//all-dog-breeds/schapendoes.html,-,No,-,Prices: $1000 - $1500,Lifespan: 12-14 years
+Shikoku dog,https://www.dogbreedslist.info//all-dog-breeds/shikoku-dog.html,-,-,-,Prices: $3000 - $4000,Lifespan: 10-12 years
+Shiloh Shepherd dog,https://www.dogbreedslist.info//all-dog-breeds/shiloh-shepherd-dog.html,-,-,-,Prices: $1000 - $2000,Lifespan: 12-14 years
+Silken Windhound,https://www.dogbreedslist.info//all-dog-breeds/silken-windhound.html,-,No,-,Prices: $2000 - $2500,Lifespan: 16-20 years
+Kangal Dog,https://www.dogbreedslist.info//all-dog-breeds/kangal-dog.html,-,No,-,Prices: $1200 - $2500,Lifespan: 12-15 years
+Pont-Audemer Spaniel,https://www.dogbreedslist.info//all-dog-breeds/pont-audemer-spaniel.html,-,No,-,Prices: $1200 - $1600,Lifespan: 12-14 years
+Spanish Mastiff,https://www.dogbreedslist.info//all-dog-breeds/spanish-mastiff.html,-,-,-,Prices: $1200 - $1800,Lifespan: 10-12 years
+Swedish Lapphund,https://www.dogbreedslist.info//all-dog-breeds/swedish-lapphund.html,-,No,-,Prices: $1500 - $2000,Lifespan: 10-13 years
+Tamaskan Dog,https://www.dogbreedslist.info//all-dog-breeds/tamaskan-dog.html,-,No,-,Prices: $1200 - $1700,Lifespan: 14-16 years
+Thai Ridgeback,https://www.dogbreedslist.info//all-dog-breeds/thai-ridgeback.html,-,No,-,Prices: $1600 - $2000,Lifespan: 11-13 years
+Tosa Ken,https://www.dogbreedslist.info//all-dog-breeds/tosa-dog.html,-,No,-,Prices: $1800 - $2200,Lifespan: 10-12 years
+Alaskan Husky,https://www.dogbreedslist.info//all-dog-breeds/alaskan-husky.html,-,No,-,Prices: $1000 - $1500,Lifespan: 10-15 years
+American Bulldog,https://www.dogbreedslist.info//all-dog-breeds/american-bulldog.html,-,No,-,Prices: $1500 - $3500,Lifespan: 10-12 years
+Andalusian Hound,https://www.dogbreedslist.info//all-dog-breeds/andalusian-hound.html,-,No,-,Prices: $1500 - $2500,Lifespan: 10-12 years
+Basset Artesien Normand,https://www.dogbreedslist.info//all-dog-breeds/basset-artesien-normand.html,-,No,-,Prices: $1200 - $1500,Lifespan: 13-15 years
+Mountain Feist,https://www.dogbreedslist.info//all-dog-breeds/mountain-feist.html,-,No,-,Prices: $500 - $800,Lifespan: 10-15 years
+Texas Heeler,https://www.dogbreedslist.info//all-dog-breeds/texas-heeler.html,-,No,-,Prices: $400 - $700,Lifespan: 13-15 years
+King Shepherd,https://www.dogbreedslist.info//all-dog-breeds/king-shepherd.html,-,No,-,Prices: $1500 - $2500,Lifespan: 10-13 years
+Double Doodle,https://www.dogbreedslist.info//all-dog-breeds/double-doodle.html,-,-,-,Prices: $1000 - $3500,Lifespan: 12-15 years
+Russian Tsvetnaya Bolonka,https://www.dogbreedslist.info//all-dog-breeds/russian-tsvetnaya-bolonka.html,-,Yes,-,Prices: $1500 - $2500,Lifespan: 12-16 years
+Maremma Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/maremma-sheepdog.html,-,No,-,Prices: $1500 - $2500,Lifespan: 11-13 years
+Shichon,https://www.dogbreedslist.info//all-dog-breeds/shichon.html,-,Yes,-,Prices: $1500 - $2500,Lifespan: 12-15 years
+Broholmer,https://www.dogbreedslist.info//all-dog-breeds/broholmer.html,-,-,-,Prices: $1500 - $2000,Lifespan: 8-11 years
+Biewer Terrier,https://www.dogbreedslist.info//all-dog-breeds/biewer-terrier.html,-,Yes,-,Prices: $2500 - $4500,Lifespan: 12-16 years
+Pyrenean Mastiff,https://www.dogbreedslist.info//all-dog-breeds/pyrenean-mastiff.html,-,No,-,Prices: $1500 - $3000,Lifespan: 10-12 years
+Romanian Mioritic Shepherd Dog,https://www.dogbreedslist.info//all-dog-breeds/romanian-mioritic-shepherd-dog.html,-,No,-,Prices: $1400 - $1800,Lifespan: 12-14 years
+American Mastiff,https://www.dogbreedslist.info//all-dog-breeds/american-mastiff.html,-,No,-,Prices: $1000 - $1500,Lifespan: 10-12 years
+Lucas Terrier,https://www.dogbreedslist.info//all-dog-breeds/lucas-terrier.html,-,-,-,Prices: $2000 - $3500,Lifespan: 14-15 years
+Lurcher,https://www.dogbreedslist.info//all-dog-breeds/lurcher.html,-,-,-,Prices: $600 - $800,Lifespan: 12-14 years
+Akbash Dog,https://www.dogbreedslist.info//all-dog-breeds/akbash-dog.html,-,No,-,Prices: $700 - $900,Lifespan: 10-12 years
+Alano Espanol,https://www.dogbreedslist.info//all-dog-breeds/alano-espanol.html,-,No,-,Prices: $600 - $2000,Lifespan: 11-14 years
+Mal-Shi,https://www.dogbreedslist.info//all-dog-breeds/mal-shi.html,-,-,-,Prices: $1500 - $2500,Lifespan: 12-15 years
+Slovensky Cuvac,https://www.dogbreedslist.info//all-dog-breeds/slovensky-cuvac.html,-,-,-,Prices: $1800 - $2500,Lifespan: 11-13 years
+Moscow Watchdog,https://www.dogbreedslist.info//all-dog-breeds/moscow-watchdog.html,-,-,-,Prices: $2000 - $2500,Lifespan: 9-11 years
+Stabyhoun,https://www.dogbreedslist.info//all-dog-breeds/stabyhoun.html,-,-,-,Prices: $2000 - $3200,Lifespan: 13-14 years
+Mountain Cur,https://www.dogbreedslist.info//all-dog-breeds/mountain-cur.html,-,No,-,Prices: $500 - $1000,Lifespan: 12-16 years
+Polish Tatra Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/polish-tatra-sheepdog.html,-,No,-,Prices: $1200 - $2000,Lifespan: 10-12 years
+Puggle,https://www.dogbreedslist.info//all-dog-breeds/puggle.html,-,-,-,Prices: $1000 - $2000,Lifespan: 10-15 years
+Spanish Greyhound,https://www.dogbreedslist.info//all-dog-breeds/spanish-greyhound.html,-,-,-,Prices: $800 - $1500,Lifespan: 12-15 years
+Kyi-Leo,https://www.dogbreedslist.info//all-dog-breeds/kyi-leo.html,-,Yes,-,Prices: $800 - $1200,Lifespan: 12-15 years
+Briquet Griffon Vendeen,https://www.dogbreedslist.info//all-dog-breeds/briquet-griffon-vendeen.html,-,No,-,Prices: $1000 - $1200,Lifespan: 10-12 years
+Bukovina Sheepdog,https://www.dogbreedslist.info//all-dog-breeds/bukovina-sheepdog.html,-,No,-,Prices: $1000 - $1500,Lifespan: 10-14 years
+Cesky Fousek,https://www.dogbreedslist.info//all-dog-breeds/cesky-fousek.html,-,-,-,Prices: $800 - $1500,Lifespan: 12-15 years
+Chart Polski,https://www.dogbreedslist.info//all-dog-breeds/chart-polski.html,-,No,-,Prices: $800 - $1200,Lifespan: 10-12 years
+Deutsche Bracke,https://www.dogbreedslist.info//all-dog-breeds/deutsche-bracke.html,-,No,-,Prices: $800 - $1200,Lifespan: 10-12 years
+East Siberian Laika,https://www.dogbreedslist.info//all-dog-breeds/east-siberian-laika.html,-,No,-,Prices: $1000 - $2000,Lifespan: 12-15 years
+Greenland Dog,https://www.dogbreedslist.info//all-dog-breeds/greenland-dog.html,-,No,-,Prices: $1000 - $2000,Lifespan: 12-14 years
+Griffon bleu de Gascogne,https://www.dogbreedslist.info//all-dog-breeds/griffon-bleu-de-gascogne.html,-,No,-,Prices: $1000 - $1500,Lifespan: 12-15 years
+Japanese Terrier,https://www.dogbreedslist.info//all-dog-breeds/japanese-terrier.html,-,No,-,Prices: $600 - $800,Lifespan: 12-15 years
+Lapponian Herder,https://www.dogbreedslist.info//all-dog-breeds/lapponian-herder.html,-,No,-,Prices: $1000 - $2000,Lifespan: 10-12 years
+Grand Bleu de Gascogne,https://www.dogbreedslist.info//all-dog-breeds/grand-bleu-de-gascogne.html,-,-,-,Prices: $1000 - $1500,Lifespan: 12-14 years
+Pudelpointer,https://www.dogbreedslist.info//all-dog-breeds/pudelpointer.html,-,No,-,Prices: $1200 - $1500,Lifespan: 9-11 years
+Rajapalayam dog,https://www.dogbreedslist.info//all-dog-breeds/rajapalyam-dog.html,-,-,-,Prices: $300 - $500,Lifespan: 10-12 years
+Beagle-Harrier,https://www.dogbreedslist.info//all-dog-breeds/beagle-harrier.html,-,No,-,Prices: $1500 - $2500,Lifespan: 12-14 years
+Beaglier,https://www.dogbreedslist.info//all-dog-breeds/beaglier.html,-,No,-,Prices: $1200 - $2000,Lifespan: 13-15 years
+Cairmal,https://www.dogbreedslist.info//all-dog-breeds/cairmal.html,-,-,-,Prices: $500 - $800,Lifespan: 12-15 years
+Majestic Tree Hound,https://www.dogbreedslist.info//all-dog-breeds/majestic-tree-hound.html,-,No,-,Prices: $600 - $800,Lifespan: 10-13 years
+Chorkie,https://www.dogbreedslist.info//all-dog-breeds/chorkie.html,-,-,-,Prices: $700 - $1200,Lifespan: 12-14 years
+Cockalier,https://www.dogbreedslist.info//all-dog-breeds/cockalier.html,-,No,-,Prices: $1800 - $3500,Lifespan: 12-15 years
+Dorkie,https://www.dogbreedslist.info//all-dog-breeds/dorkie.html,-,-,-,Prices: $600 - $800,Lifespan: 13-15 years
+Ariege Pointer,https://www.dogbreedslist.info//all-dog-breeds/ariege-pointer.html,-,No,-,Prices: $600 - $800,Lifespan: 10-13 years
+Ariegeois,https://www.dogbreedslist.info//all-dog-breeds/ariegeois.html,-,-,-,Prices: $1000 - $1200,Lifespan: 10-12 years
+Bavarian Mountain Hound,https://www.dogbreedslist.info//all-dog-breeds/bavarian-mountain-hound.html,-,No,-,Prices: $1000 - $1500,Lifespan: 10-12 years
+Bouvier des Ardennes,https://www.dogbreedslist.info//all-dog-breeds/bouvier-de-ardennes.html,-,-,-,Prices: $1500 - $3000,Lifespan: 12-14 years
+Caravan Hound,https://www.dogbreedslist.info//all-dog-breeds/caravan-hound.html,-,No,-,Prices: Unknown,Lifespan: 10-15 years
+Danish-Swedish Farmdog,https://www.dogbreedslist.info//all-dog-breeds/danish-swedish-farmdog.html,-,No,-,Prices: Unknown,Lifespan: 10-15 years
+Dingo,https://www.dogbreedslist.info//all-dog-breeds/dingo.html,-,No,-,Prices: Unknown,Lifespan: 16-20 years
+Dutch Smoushond,https://www.dogbreedslist.info//all-dog-breeds/dutch-smoushond.html,-,No,-,Prices: Unknown,Lifespan: 12-15 years
+Finnish Hound,https://www.dogbreedslist.info//all-dog-breeds/finnish-hound.html,-,No,-,Prices: Unknown,Lifespan: 10-12 years
+Northern Inuit Dog,https://www.dogbreedslist.info//all-dog-breeds/northern-inuit-dog.html,-,-,-,Prices: Unknown,Lifespan: 12-14 years
+Plummer Terrier,https://www.dogbreedslist.info//all-dog-breeds/plummer-terrier.html,-,-,-,Prices: Unknown,Lifespan: 12-15 years
+Portuguese Pointer,https://www.dogbreedslist.info//all-dog-breeds/portuguese-pointer.html,-,No,-,Prices: Unknown,Lifespan: 12-14 years
+Rafeiro do Alentejo,https://www.dogbreedslist.info//all-dog-breeds/rafeiro-do-alentejo.html,-,No,-,Prices: Unknown,Lifespan: 10-12 years
+Seppala Siberian Sleddog,https://www.dogbreedslist.info//all-dog-breeds/seppala-siberian-sleddog.html,-,-,-,Prices: Unknown,Lifespan: 12-16 years
+South Russian Ovcharka,https://www.dogbreedslist.info//all-dog-breeds/south-russian-ovcharka.html,-,No,-,Prices: Unknown,Lifespan: 9-11 years
+Tornjak,https://www.dogbreedslist.info//all-dog-breeds/tornjak.html,-,-,-,Prices: Unknown,Lifespan: 10-12 years
+Karst Shepherd,https://www.dogbreedslist.info//all-dog-breeds/karst-shepherd.html,-,-,-,Prices: Unknown,Lifespan: 11-12 years
+West Siberian Laika,https://www.dogbreedslist.info//all-dog-breeds/west-siberian-laika.html,-,No,-,Prices: Unknown,Lifespan: 14-16 years
+Wetterhoun,https://www.dogbreedslist.info//all-dog-breeds/wetterhoun.html,-,No,-,Prices: Unknown,Lifespan: 12-14 years
+Bull Arab,https://www.dogbreedslist.info//all-dog-breeds/bull-arab.html,-,No,-,Prices: Unknown,Lifespan: 12-15 years
+Taco Terrier,https://www.dogbreedslist.info//all-dog-breeds/taco-terrier.html,-,-,-,Prices: Unknown,Lifespan: 13-15 years
+Africanis,https://www.dogbreedslist.info//all-dog-breeds/africanis.html,-,-,-,Prices: Unknown,Lifespan: 10-12 years
+Aidi,https://www.dogbreedslist.info//all-dog-breeds/aidi.html,-,-,-,Prices: Unknown,Lifespan: 10-12 years
+American Staghound,https://www.dogbreedslist.info//all-dog-breeds/american-staghound.html,-,-,-,Prices: Unknown,Lifespan: 10-12 years
+Cão da Serra de Aires,https://www.dogbreedslist.info//all-dog-breeds/cao-da-serra-de-aires.html,-,No,-,Prices: Unknown,Lifespan: 12-14 years
+Drentse Patrijshond,https://www.dogbreedslist.info//all-dog-breeds/drentse-patrijshond.html,-,No,-,Prices: Unknown,Lifespan: 12-14 years
+Drever,https://www.dogbreedslist.info//all-dog-breeds/drever.html,-,No,-,Prices: Unknown,Lifespan: 12-14 years
+Dunker,https://www.dogbreedslist.info//all-dog-breeds/dunker.html,-,No,-,Prices: Unknown,Lifespan: 10-12 years
+Francais Blanc et Noir,https://www.dogbreedslist.info//all-dog-breeds/francais-blanc-et-noir.html,-,No,-,Prices: Unknown,Lifespan: 10-12 years
+Polish Hunting Dog,https://www.dogbreedslist.info//all-dog-breeds/polish-hunting-dog.html,-,No,-,Prices: Unknown,Lifespan: 10-13 years
+Hamilton Hound,https://www.dogbreedslist.info//all-dog-breeds/hamilton-hound.html,-,No,-,Prices: Unknown,Lifespan: 11-13 years
+Jämthund,https://www.dogbreedslist.info//all-dog-breeds/jamthund.html,-,-,-,Prices: Unknown,Lifespan: 11-14 years
+New Guinea Singing Dog,https://www.dogbreedslist.info//all-dog-breeds/new-guinea-singing-dog.html,-,No,-,Prices: Unknown,Lifespan: 16-19 years
+Sapsali,https://www.dogbreedslist.info//all-dog-breeds/sapsali.html,-,-,-,Prices: Unknown,Lifespan: 11-13 years
+Smaland Hound,https://www.dogbreedslist.info//all-dog-breeds/smaland-hound.html,-,No,-,Prices: Unknown,Lifespan: 12-14 years
+Serbian Hound,https://www.dogbreedslist.info//all-dog-breeds/serbian-hound.html,-,-,-,Prices: Unknown,Lifespan: 12-14 years
+Thai Bangkaew Dog,https://www.dogbreedslist.info//all-dog-breeds/thai-bangkaew-dog.html,-,-,-,Prices: Unknown,Lifespan: 10-12 years
+Transylvanian Hound,https://www.dogbreedslist.info//all-dog-breeds/transylvanian-hound.html,-,No,-,Prices: Unknown,Lifespan: 10-12 years
+Alopekis,https://www.dogbreedslist.info//all-dog-breeds/alopekis.html,-,No,-,Prices: Unknown,Lifespan: 14-16 years
+Chippiparai,https://www.dogbreedslist.info//all-dog-breeds/chippiparai.html,-,No,-,Prices: Unknown,Lifespan: 12-15 years
+Chizer,https://www.dogbreedslist.info//all-dog-breeds/chizer.html,-,-,-,Prices: Unknown,Lifespan: 12-15 years
+Cotonese,https://www.dogbreedslist.info//all-dog-breeds/cotonese.html,-,No,-,Prices: Unknown,Lifespan: 13-15 years
+Dorgi,https://www.dogbreedslist.info//all-dog-breeds/dorgi.html,-,-,-,Prices: Unknown,Lifespan: 12-14 years
