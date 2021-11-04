@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data visualization on Ronke Akinmosin</title>
-    <link>https://ronke-susan.github.io/portfolio/tags/data-visualization/</link>
+    <link>https://ronke-susan.github.io/tags/data-visualization/</link>
     <description>Recent content in data visualization on Ronke Akinmosin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Aug 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://ronke-susan.github.io/portfolio/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://ronke-susan.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project I: Courses Performance and Revenue Report</title>
-      <link>https://ronke-susan.github.io/portfolio/post/project-1/</link>
+      <link>https://ronke-susan.github.io/post/project-1/</link>
       <pubDate>Sun, 15 Aug 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://ronke-susan.github.io/portfolio/post/project-1/</guid>
+      <guid>https://ronke-susan.github.io/post/project-1/</guid>
       <description>Business Problem
 You’re a Data Analyst working for the education tech company Udemy. You have been asked by your manager, Head of Curriculum at Udemy, to present the data on course revenue, and you have been provided with data on courses from different topics to understand where opportunities to increase revenue may lie, and track the performance of courses. Your manager has suggested encouraging Web Development courses to charge more because she believes that these are the most popular courses.</description>
     </item>
