@@ -6,7 +6,20 @@
     <description>Recent content in data analysis on Ronke Akinmosin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://ronke-susan.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://ronke-susan.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafting Compelling Stories and Visualizations With Tableau</title>
+      <link>https://ronke-susan.github.io/post/project-4/</link>
+      <pubDate>Wed, 06 Sep 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://ronke-susan.github.io/post/project-4/</guid>
+      <description>Introduction
+A collection of Interactive dashboards and stories created with tableau on Tableau public
+Quantity and Location of all Lightning Strikes in the United States.
+  Interactive U.S map Dynamic Stat sheet Lightning strikes metrics for the individual location on each year map.  Impact of National Holidays on Seoul Bicycle Rentals
+ A dynamic dashboard that compares the impacts of a holiday on bike rentals by weekday or adjacent day.</description>
+    </item>
+    
     <item>
       <title>World Food Shortage Problem : Africa as a Case Study. </title>
       <link>https://ronke-susan.github.io/post/project-3/</link>
