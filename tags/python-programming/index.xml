@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python Programming on Ronke Akinmosin</title>
+    <link>https://ronke-susan.github.io/tags/python-programming/</link>
+    <description>Recent content in Python Programming on Ronke Akinmosin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ronke-susan.github.io/tags/python-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predictive Modeling for Employee Retention - A Data-Driven Approach </title>
+      <link>https://ronke-susan.github.io/post/project-5/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronke-susan.github.io/post/project-5/</guid>
+      <description>BUSINESS SCENERIO
+The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. They collected data from employees, but now they don’t know what to do with it. They refer to you as a data analytics professional and ask you to provide data-driven suggestions based on your understanding of the data. They have the following question: what’s likely to make the employee leave the company?</description>
+    </item>
+    
+  </channel>
+</rss>
